@@ -8,3 +8,6 @@ anteprima*.jpg
 
 # il salt di staticrypt: va conservato ma non serve nel repo
 .staticrypt.json
+
+# rumore di macOS
+.DS_Store

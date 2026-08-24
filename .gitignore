@@ -1,0 +1,7 @@
+# Il sorgente in chiaro della pagina non deve MAI finire nel repo:
+# il repo e' pubblico e la pagina contiene dati dei bambini.
+sorgente/
+index_sorgente.html
+*_sorgente.html
+anteprima*.png
+anteprima*.jpg

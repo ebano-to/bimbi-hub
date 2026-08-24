@@ -5,3 +5,6 @@ index_sorgente.html
 *_sorgente.html
 anteprima*.png
 anteprima*.jpg
+
+# il salt di staticrypt: va conservato ma non serve nel repo
+.staticrypt.json
